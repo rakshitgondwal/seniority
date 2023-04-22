@@ -1,0 +1,1 @@
+kubectl port-forward express-app-7bbdfc857f-4s8fj 5000:5000
